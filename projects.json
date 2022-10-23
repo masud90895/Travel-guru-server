@@ -1,0 +1,231 @@
+[
+  {
+    "id": "1",
+    "place": "Cox’s  Bazar",
+    "image": "https://i.ibb.co/xSys32t/sunset-sea.jpg",
+    "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59415.1504867453!2d91.96788255632242!3d21.450974393789394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc7ea2ab928c3%3A0x3b539e0a68970810!2z4KaV4KaV4KeN4Ka44Kas4Ka-4Kac4Ka-4Kaw!5e0!3m2!1sbn!2sbd!4v1666468461528!5m2!1sbn!2sbd",
+    "ditailes": [
+      {
+        "place": "Cox’s  Bazar",
+        "ditaile": "Cox’s Bazaar Sea Beach is the largest sea beach in the world. It is situated at the shore of the Bay of Bengal to the most southern part of our country. This sea beach is 120 kilometers long. Every year many tourists come here from home and abroad to enjoy its natural beauty. The scene of sunrise and sunset can be enjoyed from this beach. People collect sea-shells, pearls etc. from this sea beach. This is very fascinating and a great attraction for all the beauty lovers."
+      }
+    ],
+    "hotels": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/sHVB184/Rectangle-26.png",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 34,
+        "total": 67
+      },
+      {"id" : 2,
+        "image": "https://i.ibb.co/yX8NXdG/Rectangle-27.png",
+        "title": "Apartment in Lost Panorama",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.7",
+        "price": 52,
+        "total": 67
+      },
+      {"id" : 3,
+        "image": "https://i.ibb.co/bF8ST7s/Rectangle-28.png",
+        "title": "AR Lounge & Pool  ",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 54,
+        "total": 67
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "place": "Sreemangal",
+    "image": "https://i.ibb.co/YN9GhVY/Sreemongol.png",
+    "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29087.557862326867!2d91.70753471106751!3d24.313562805424983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37517a7a9ac91745%3A0x50f827893a88c955!2z4Ka24KeN4Kaw4KeA4Kau4KaZ4KeN4KaX4Kay!5e0!3m2!1sbn!2sbd!4v1666468570847!5m2!1sbn!2sbd",
+    "ditailes": [
+      {
+        "place": "Sreemangal",
+        "ditaile": "Sreemangal is the tea capital of Bangladesh. The green tea plantation attracts most tourists. The tea of highest quality is produced here. Sreemangal  is the place where tea and tea gardens are available from where Sylhet has been contributing to improving economic growth of Bangladesh. There are almost 163 tea gardens  in Bangladesh. You can see Tea Garden is everywhere in the Sreemangal. Seeing the tea garden, it seems as if nature has spread a green carpet on the hills. Zigzag Roads in the middle of the tea garden on both sides looks very charming.  On the way of Sreemangal by bus you’ll see the statue named “Cha Konna” which is a stand for welcome you. The first tea garden in Bangladesh which names “Malni Chhora Tea Estates ” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is here (Sreemangal)."
+      }
+    ],
+    "hotels": [
+      {"id" : 1,
+        "image": "https://i.ibb.co/sHVB184/Rectangle-26.png",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 34,
+        "total": 67
+      },
+      {"id" : 2,
+        "image": "https://i.ibb.co/yX8NXdG/Rectangle-27.png",
+        "title": "Apartment in Lost Panorama",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 52,
+        "total": 67
+      },
+      {"id" : 3,
+        "image": "https://i.ibb.co/bF8ST7s/Rectangle-28.png",
+        "title": "AR Lounge & Pool  ",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 54,
+        "total": 67
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "place": "Sundarbans",
+    "image": "https://i.ibb.co/PGDQhdR/sundorbon.png",
+    "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d473447.2395159528!2d88.7126572929003!3d22.01872172292279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a004caac2c7b315%3A0x4716abcfbb16c93c!2z4Ka44KeB4Kao4KeN4Kam4Kaw4Kas4Kao!5e0!3m2!1sbn!2sbd!4v1666468625101!5m2!1sbn!2sbd",
+    "ditailes": [
+      {
+        "place": "Sundarbans",
+        "ditaile": "The Sundarbans is a vast forest on the coast of the Bay of Bengal. The Sundarban is located in both Bangladesh and West Bengal, India. In the Bangladesh part, you can enter through Khulna and Mongla. The Sundarbans is one of the natural wonders of the world. The Sundarban is full of natural beauty. The entire forest is covered by a crossed network of lakes or rivers. Not only the forest but also its ecosystem has made it one of the best natural beauty in the world. Mangrove forests, spotted deer, wild bears, Bengal tigers (Royal Bengal Tigers), crocodiles, monkeys, and much other wildlife together pose a real threat to suburban wildlife. This forest is unique for its beautiful tree species and the Royal Bengal Tiger. "
+      }
+    ],
+    "hotels": [
+      {"id" : 1,
+        "image": "https://i.ibb.co/sHVB184/Rectangle-26.png",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 34,
+        "total": 67
+      },
+      {"id" : 2,
+        "image": "https://i.ibb.co/yX8NXdG/Rectangle-27.png",
+        "title": "Apartment in Lost Panorama",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 52,
+        "total": 67
+      },
+      {"id" : 3,
+        "image": "https://i.ibb.co/bF8ST7s/Rectangle-28.png",
+        "title": "AR Lounge & Pool  ",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 54,
+        "total": 67
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "place": "Rangamati",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Hanging_Bridge%2C_Kaptai_Lake.jpg",
+    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7363.891626886537!2d92.16868397678806!3d22.655808841528653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3752b5a7b4c418f9%3A0xa63c343bd4a12112!2z4Kaw4Ka-4KaZ4Ka-4Kau4Ka-4Kaf4Ka_!5e0!3m2!1sbn!2sbd!4v1666468656327!5m2!1sbn!2sbd",
+    "ditailes": [
+      {
+        "place": "Rangamati",
+        "ditaile": "The District of Chittagong Hill Tracks area in Rangamati, a place full of natural amusement and here, here, you can find a man-made lake surrounded by Hill called Kaptai Lake where you can take a ride by boat all over the day, a Buddhist Monastery here named Rajban Bihara, a high-quality handicrafts market made by the tribal of Rangamati."
+      }
+    ],
+    "hotels": [
+      {"id" : 1,
+        "image": "https://i.ibb.co/sHVB184/Rectangle-26.png",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 34,
+        "total": 67
+      },
+      {"id" : 2,
+        "image": "https://i.ibb.co/yX8NXdG/Rectangle-27.png",
+        "title": "Apartment in Lost Panorama",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 52,
+        "total": 67
+      },
+      {"id" : 3,
+        "image": "https://i.ibb.co/bF8ST7s/Rectangle-28.png",
+        "title": "AR Lounge & Pool  ",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 54,
+        "total": 67
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "place": "Paharpur",
+    "image": "https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/7c4eedaa-8c2d-4fd5-8fc7-c50903a05acf-paharpur-inline-01.jpg?q=75",
+    "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14460.221264080756!2d88.95994632021988!3d25.0321967658036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fc8f1cd14f7ff5%3A0x5d7c353cb03505cb!2z4Kaq4Ka-4Ka54Ka-4Kah4Ka84Kaq4KeB4Kaw!5e0!3m2!1sbn!2sbd!4v1666468705256!5m2!1sbn!2sbd",
+    "ditailes": [
+      {
+        "place": "Paharpur",
+        "ditaile": "Paharpur is the most impressive archeological site of Bangladesh which is known as Sompuri Maharabihara which has declared World Heritage Site by UNESCO and it is situated in the northwestern part of the country. In the initial period, it was the best Buddhist Monastery where people came for higher study from all over the world."
+      }
+    ],
+    "hotels": [
+      {"id" : 1,
+        "image": "https://i.ibb.co/sHVB184/Rectangle-26.png",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 34,
+        "total": 67
+      },
+      {"id" : 2,
+        "image": "https://i.ibb.co/yX8NXdG/Rectangle-27.png",
+        "title": "Apartment in Lost Panorama",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 52,
+        "total": 67
+      },
+      {"id" : 3,
+        "image": "https://i.ibb.co/bF8ST7s/Rectangle-28.png",
+        "title": "AR Lounge & Pool  ",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 54,
+        "total": 67
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "place": "Lalbag Fort",
+    "image": "https://lp-cms-production.imgix.net/2019-06/63a2f6d14bf52f127d2eb792f8df02fc-lalbagh-fort.jpg",
+    "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.799153081074!2d90.38597091543114!3d23.71886539589611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8d900000001%3A0x4e16316ffc66e862!2z4Kay4Ka-4Kay4Kas4Ka-4KaXIOCmleCnh-CmsuCnjeCmsuCmvg!5e0!3m2!1sbn!2sbd!4v1666468760453!5m2!1sbn!2sbd",
+    "ditailes": [
+      {
+        "place": "Lalbag Fort",
+        "ditaile": "Lalbag Fort or Aurangabad is another most famous historical place in Bangladesh. It is situated beside the Buriganga River, in the southwestern part of Dhaka, Bangladesh. It was built by Mudmhammad Azam in 1678. Lalbag Fort represents the incomplete dream of the Mughal prince. The fort remained incomplete after the death of Prince Azam. "
+      }
+    ],
+    "hotels": [
+      {"id" : 1,
+        "image": "https://i.ibb.co/sHVB184/Rectangle-26.png",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 34,
+        "total": 67
+      },
+      {"id" : 2,
+        "image": "https://i.ibb.co/yX8NXdG/Rectangle-27.png",
+        "title": "Apartment in Lost Panorama",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 52,
+        "total": 67
+      },
+      {"id" : 3,
+        "image": "https://i.ibb.co/bF8ST7s/Rectangle-28.png",
+        "title": "AR Lounge & Pool  ",
+        "opportunity": " 4 guests, 2 bedrooms, 2 beds, 2 baths,Wif Air conditioning Kitchen,Cancellation fexibility availiable",
+        "star": "4.9",
+        "price": 54,
+        "total": 67
+      }
+    ]
+  }
+]
